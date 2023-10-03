@@ -1,2 +1,3 @@
 # arthropods
 Scripts by Aurélie Chagnon-Lafortune for paper on arthropod availaibility
+These scripts are the trace of the work done for the paper "A circumpolar study unveils a positive non-linear effect of temperature on arctic arthropod availability that may reduce the risk of warming-induced trophic mismatch for breeding shorebirds", but they are also the trace of much learning so they are chaotic, full of tests that are no longer relevant and partly in French. If you ever need to work with them or consult them, the simplest way to proceed is to contact me (aurelie.c.lafortune@gmail.com) so I can help you navigate through years of work!
